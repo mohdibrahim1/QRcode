@@ -1,0 +1,17 @@
+C:\Users\HP\source\repos\BarCode\BarCode\bin\Debug\netcoreapp3.1\BarCode.exe
+C:\Users\HP\source\repos\BarCode\BarCode\bin\Debug\netcoreapp3.1\BarCode.deps.json
+C:\Users\HP\source\repos\BarCode\BarCode\bin\Debug\netcoreapp3.1\BarCode.runtimeconfig.json
+C:\Users\HP\source\repos\BarCode\BarCode\bin\Debug\netcoreapp3.1\BarCode.runtimeconfig.dev.json
+C:\Users\HP\source\repos\BarCode\BarCode\bin\Debug\netcoreapp3.1\BarCode.dll
+C:\Users\HP\source\repos\BarCode\BarCode\bin\Debug\netcoreapp3.1\BarCode.pdb
+C:\Users\HP\source\repos\BarCode\BarCode\bin\Debug\netcoreapp3.1\Zen.Barcode.Core.dll
+C:\Users\HP\source\repos\BarCode\BarCode\obj\Debug\netcoreapp3.1\BarCode.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\BarCode\BarCode\obj\Debug\netcoreapp3.1\BarCode.Form1.resources
+C:\Users\HP\source\repos\BarCode\BarCode\obj\Debug\netcoreapp3.1\BarCode.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\BarCode\BarCode\obj\Debug\netcoreapp3.1\BarCode.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\BarCode\BarCode\obj\Debug\netcoreapp3.1\BarCode.AssemblyInfo.cs
+C:\Users\HP\source\repos\BarCode\BarCode\obj\Debug\netcoreapp3.1\BarCode.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\BarCode\BarCode\obj\Debug\netcoreapp3.1\BarCode.csproj.CopyComplete
+C:\Users\HP\source\repos\BarCode\BarCode\obj\Debug\netcoreapp3.1\BarCode.dll
+C:\Users\HP\source\repos\BarCode\BarCode\obj\Debug\netcoreapp3.1\BarCode.pdb
+C:\Users\HP\source\repos\BarCode\BarCode\obj\Debug\netcoreapp3.1\BarCode.genruntimeconfig.cache
